@@ -51,7 +51,7 @@ public class  AccesoABaseDeDatos {
             }		
 		
 				
-			System.out.println("Prueba");
+			System.out.println("Resultados de la Consulta a la Base de Datos");
 			System.out.println("Número de Clientes en Base de Datos: " + count);
 			Assert.assertTrue(count > 0);
 				
